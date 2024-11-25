@@ -62,7 +62,7 @@
                 android:orientation="vertical">
 
                 <TextView
-                    android:id="@+id/textView6"
+                    android:id="@+id/textView644"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Name"
@@ -73,7 +73,7 @@
                     android:layout_marginBottom="8dp"/>
 
                 <EditText
-                    android:id="@+id/editTextText2"
+                    android:id="@+id/editTextText244"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:ems="10"
@@ -89,7 +89,7 @@
                     android:textSize="20sp"/>
 
                 <TextView
-                    android:id="@+id/textView6"
+                    android:id="@+id/textView643"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Email"
@@ -100,7 +100,7 @@
                     android:layout_marginBottom="8dp"/>
 
                 <EditText
-                    android:id="@+id/editTextText2"
+                    android:id="@+id/editTextText211"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:ems="10"
@@ -116,7 +116,7 @@
                     android:textSize="20sp"/>
 
                 <TextView
-                    android:id="@+id/textView6"
+                    android:id="@+id/textView609"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Password"
@@ -127,7 +127,7 @@
                     android:layout_marginBottom="8dp"/>
 
                 <EditText
-                    android:id="@+id/editTextText2"
+                    android:id="@+id/editTextText266"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     android:ems="10"
